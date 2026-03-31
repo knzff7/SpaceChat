@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+
+# Visual Studio
+.vs/
+.vscode/settings.json
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific files
+appsettings.Development.json
